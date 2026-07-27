@@ -1,0 +1,6 @@
+{
+  "name": "Bushido Martial Arts Academy",
+  "description": "World-class Japanese-inspired Martial Arts Academy website with cinematic opening dojo doors, 3D martial arts gear, belt progression timeline, interactive schedule, and free trial booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
